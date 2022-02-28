@@ -1,4 +1,4 @@
-# Selenium hack on Streamlit Share
+# Selenium hack on Streamlit Share and upload to heroku
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/andfanilo/s4a-selenium/main/app.py)
 
